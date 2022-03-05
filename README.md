@@ -1,2 +1,4 @@
-# OlaMundo
- Meu primeiro projeto versionado Git e Git Hub
+# Olá, Mundo!
+ Meu primeiro repósitorio do curso de Git e Git Hub
+
+Repósitorio criado durante aula ao vivo!
